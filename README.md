@@ -7,7 +7,7 @@ It is a website for all the users that are in a hurry and want to jot down the i
 <li>Css</li>
 <li>JavaScript</li>
 <li>PHP</li>
-<li>Sql<li>
+<li>Sql</li>
 
 <b>Features of the website</b>
 
