@@ -8,6 +8,7 @@ It is a website for all the users that are in a hurry and want to jot down the i
 <li>JavaScript</li>
 <li>PHP</li>
 <li>Sql</li>
+<br/>
 
 <b>Features of the website</b>
 
@@ -18,6 +19,7 @@ It is a website for all the users that are in a hurry and want to jot down the i
 <li>Change the brush color to any color of your choice</li>
 <li>Change the brush width</li>
 <li>Write a node, save it accoding to heading</li>
+<br/>
 
 Images 
 <br/>
